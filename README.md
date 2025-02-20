@@ -1,6 +1,6 @@
-<h2 align="left"># Hi 👋! My name is Jade Mark E. Escolano  <br><br>I'm a tech-savvy developer from Glamang, Polomolok, South Cotabato. I specialize in web, desktop, and mobile development using C#, Blazor, MAUI Blazor, and Windows Forms.  <br><br>
+<p1 align="left"># Hi 👋! My name is Jade Mark E. Escolano  <br><br>I'm a tech-savvy developer from Glamang, Polomolok, South Cotabato. I specialize in web, desktop, and mobile development using C#, Blazor, MAUI Blazor, and Windows Forms.  <br><br>
 ### 🚀 About Me  <br>- 💻 I have experience as a freelance IT Technician and .NET Developer since 2022.  <br>- 🔧 I design and develop .NET applications and provide technical support.  <br>- 📚 I hold a Bachelor's degree in Information Technology and a Computer Systems Servicing NCII certification.  <br><br>
-### 🛠️ Tech Stack  <br>- **Languages:** C#, SQL  <br>- **Frameworks:** Blazor, MAUI Blazor, .NET  <br>- **Databases:** MySQL  <br>- **Tools:** Visual Studio, Git, Windows Forms  <br><br>---</h2>
+### 🛠️ Tech Stack  <br>- **Languages:** C#, SQL  <br>- **Frameworks:** Blazor, MAUI Blazor, .NET  <br>- **Databases:** MySQL  <br>- **Tools:** Visual Studio, Git, Windows Forms  <br><br>---</p1>
 
 ###
 
