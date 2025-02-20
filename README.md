@@ -1,9 +1,3 @@
-<p1 align="left"># Hi 👋! My name is Jade Mark E. Escolano  <br><br>I'm a tech-savvy developer from Glamang, Polomolok, South Cotabato. I specialize in web, desktop, and mobile development using C#, Blazor, MAUI Blazor, and Windows Forms.  <br><br>
-### 🚀 About Me  <br>- 💻 I have experience as a freelance IT Technician and .NET Developer since 2022.  <br>- 🔧 I design and develop .NET applications and provide technical support.  <br>- 📚 I hold a Bachelor's degree in Information Technology and a Computer Systems Servicing NCII certification.  <br><br>
-### 🛠️ Tech Stack  <br>- **Languages:** C#, SQL  <br>- **Frameworks:** Blazor, MAUI Blazor, .NET  <br>- **Databases:** MySQL  <br>- **Tools:** Visual Studio, Git, Windows Forms  <br><br>---</p1>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xl4yer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xl4yer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
