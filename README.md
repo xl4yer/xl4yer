@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xl4yer/xl4yer/output/snake.svg" alt="Snake animation" />
 
 ###
