@@ -1,4 +1,5 @@
-<img src="[image.jpg](https://i.ibb.co/q3dRQz2K/471129826-8652048791572104-518626912068842658-n.jpg)" alt="Description of the image">
+![image](https://github.com/user-attachments/assets/519761f7-ca3b-49bd-883e-990cc248a958)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xl4yer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
