@@ -1,3 +1,7 @@
+<h2 align="left">Hi 👋! My name is Jade Mark E. Escolano</h2>
+
+I specialize in web, desktop, and mobile development using C#, Blazor, and MAUI Blazor. With experience in MySQL, Web API, and PC troubleshooting, I design and build efficient .NET applications while also providing IT support. Always eager to learn and grow in the field of development! 🚀
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xl4yer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xl4yer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
